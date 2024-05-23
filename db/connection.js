@@ -5,7 +5,7 @@ const connectDb = () => {
     user: 'postgres',
     host: 'localhost',
     database: 'EmployeeDatabase',
-    password: 'Lb177496',
+    password: '',
     port: 5432,
   });
 
